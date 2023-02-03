@@ -1,0 +1,7 @@
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Release\HotelOpgaveH1.exe.config
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Release\HotelOpgaveH1.exe
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Release\HotelOpgaveH1.pdb
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Release\HotelOpgaveH1.csprojAssemblyReference.cache
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Release\HotelOpgaveH1.csproj.CoreCompileInputs.cache
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Release\HotelOpgaveH1.exe
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Release\HotelOpgaveH1.pdb

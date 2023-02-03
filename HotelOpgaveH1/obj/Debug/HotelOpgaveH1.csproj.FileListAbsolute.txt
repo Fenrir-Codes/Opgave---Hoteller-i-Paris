@@ -1,0 +1,22 @@
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Debug\HotelOpgaveH1.exe.config
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Debug\HotelOpgaveH1.exe
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Debug\HotelOpgaveH1.pdb
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.csprojAssemblyReference.cache
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.csproj.CoreCompileInputs.cache
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.exe
+C:\Users\vorag\source\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.pdb
+G:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Debug\HotelOpgaveH1.exe.config
+G:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Debug\HotelOpgaveH1.exe
+G:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Debug\HotelOpgaveH1.pdb
+G:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.csprojAssemblyReference.cache
+G:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.csproj.CoreCompileInputs.cache
+G:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.exe
+G:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.pdb
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Debug\HotelOpgaveH1.exe.config
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Debug\HotelOpgaveH1.exe
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\bin\Debug\HotelOpgaveH1.pdb
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.csproj.AssemblyReference.cache
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.csproj.SuggestedBindingRedirects.cache
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.csproj.CoreCompileInputs.cache
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.exe
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\HotelOpgaveH1\HotelOpgaveH1\obj\Debug\HotelOpgaveH1.pdb
